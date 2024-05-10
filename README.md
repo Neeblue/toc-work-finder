@@ -6,8 +6,6 @@ Selenium is used to navigate and scrape data from the job board site. Data is co
 ## Features include (including features found on older versions)
 
 - Contains a light and dark mode
-- Has a slider that determines how often to check for new positions
-- Automatically turns off between specific hours
 - Can automatically accept jobs if desired
 - Can filter based on job preferences: school location, full time positions only, subject material etc.
 - Alerts can be displayed on Windows with custom colours based on certain filters
